@@ -1,0 +1,161 @@
+location,location_code,geographic_level,time_period,gender,school_type,grade,age_category,average_mean
+England,E92000001,country,201011,Female,Total state-funded schools,Classroom teachers,Total,34174.7
+England,E92000001,country,201011,Female,Total state-funded schools,Head teachers,Total,60289.8
+England,E92000001,country,201011,Female,Total state-funded schools,Other Leadership teachers,Total,49442.5
+England,E92000001,country,201011,Female,Total state-funded schools,Total,Total,36366.9
+England,E92000001,country,201011,Male,Total state-funded schools,Classroom teachers,Total,35494
+England,E92000001,country,201011,Male,Total state-funded schools,Head teachers,Total,67401.5
+England,E92000001,country,201011,Male,Total state-funded schools,Other Leadership teachers,Total,53598.7
+England,E92000001,country,201011,Male,Total state-funded schools,Total,Total,39532
+England,E92000001,country,201011,Total,Total state-funded schools,Classroom teachers,Total,34486.4
+England,E92000001,country,201011,Total,Total state-funded schools,Head teachers,Total,62746.6
+England,E92000001,country,201011,Total,Total state-funded schools,Other Leadership teachers,Total,50835.7
+England,E92000001,country,201011,Total,Total state-funded schools,Total,Total,37160.6
+England,E92000001,country,201011,Unclassified,Total state-funded schools,Classroom teachers,Total,26953.7
+England,E92000001,country,201011,Unclassified,Total state-funded schools,Head teachers,Total,54282
+England,E92000001,country,201011,Unclassified,Total state-funded schools,Other Leadership teachers,Total,47547.1
+England,E92000001,country,201011,Unclassified,Total state-funded schools,Total,Total,28218.8
+England,E92000001,country,201112,Female,Total state-funded schools,Classroom teachers,Total,34134.1
+England,E92000001,country,201112,Female,Total state-funded schools,Head teachers,Total,60923.2
+England,E92000001,country,201112,Female,Total state-funded schools,Other Leadership teachers,Total,49649.3
+England,E92000001,country,201112,Female,Total state-funded schools,Total,Total,36383.1
+England,E92000001,country,201112,Male,Total state-funded schools,Classroom teachers,Total,35294.6
+England,E92000001,country,201112,Male,Total state-funded schools,Head teachers,Total,68268.1
+England,E92000001,country,201112,Male,Total state-funded schools,Other Leadership teachers,Total,53749.2
+England,E92000001,country,201112,Male,Total state-funded schools,Total,Total,39421.4
+England,E92000001,country,201112,Total,Total state-funded schools,Classroom teachers,Total,34402.8
+England,E92000001,country,201112,Total,Total state-funded schools,Head teachers,Total,63444.6
+England,E92000001,country,201112,Total,Total state-funded schools,Other Leadership teachers,Total,50994.9
+England,E92000001,country,201112,Total,Total state-funded schools,Total,Total,37135.4
+England,E92000001,country,201112,Unclassified,Total state-funded schools,Classroom teachers,Total,29023
+England,E92000001,country,201112,Unclassified,Total state-funded schools,Head teachers,Total,62079.2
+England,E92000001,country,201112,Unclassified,Total state-funded schools,Other Leadership teachers,Total,48723.9
+England,E92000001,country,201112,Unclassified,Total state-funded schools,Total,Total,31322
+England,E92000001,country,201213,Female,Total state-funded schools,Classroom teachers,Total,33824.6
+England,E92000001,country,201213,Female,Total state-funded schools,Head teachers,Total,61308.4
+England,E92000001,country,201213,Female,Total state-funded schools,Other Leadership teachers,Total,49655.1
+England,E92000001,country,201213,Female,Total state-funded schools,Total,Total,36121.7
+England,E92000001,country,201213,Male,Total state-funded schools,Classroom teachers,Total,34805.7
+England,E92000001,country,201213,Male,Total state-funded schools,Head teachers,Total,68944.4
+England,E92000001,country,201213,Male,Total state-funded schools,Other Leadership teachers,Total,53703.8
+England,E92000001,country,201213,Male,Total state-funded schools,Total,Total,39061.9
+England,E92000001,country,201213,Total,Total state-funded schools,Classroom teachers,Total,34049.8
+England,E92000001,country,201213,Total,Total state-funded schools,Head teachers,Total,63935.7
+England,E92000001,country,201213,Total,Total state-funded schools,Other Leadership teachers,Total,50975.2
+England,E92000001,country,201213,Total,Total state-funded schools,Total,Total,36845.7
+England,E92000001,country,201213,Unclassified,Total state-funded schools,Classroom teachers,Total,27811.4
+England,E92000001,country,201213,Unclassified,Total state-funded schools,Head teachers,Total,54475.3
+England,E92000001,country,201213,Unclassified,Total state-funded schools,Other Leadership teachers,Total,48508.6
+England,E92000001,country,201213,Unclassified,Total state-funded schools,Total,Total,29413.2
+England,E92000001,country,201314,Female,Total state-funded schools,Classroom teachers,Total,34075.8
+England,E92000001,country,201314,Female,Total state-funded schools,Head teachers,Total,62353.6
+England,E92000001,country,201314,Female,Total state-funded schools,Other Leadership teachers,Total,50124.4
+England,E92000001,country,201314,Female,Total state-funded schools,Total,Total,36487.5
+England,E92000001,country,201314,Male,Total state-funded schools,Classroom teachers,Total,35023.2
+England,E92000001,country,201314,Male,Total state-funded schools,Head teachers,Total,70376.8
+England,E92000001,country,201314,Male,Total state-funded schools,Other Leadership teachers,Total,54218.7
+England,E92000001,country,201314,Male,Total state-funded schools,Total,Total,39458.2
+England,E92000001,country,201314,Total,Total state-funded schools,Classroom teachers,Total,34296.6
+England,E92000001,country,201314,Total,Total state-funded schools,Head teachers,Total,65105.3
+England,E92000001,country,201314,Total,Total state-funded schools,Other Leadership teachers,Total,51439.1
+England,E92000001,country,201314,Total,Total state-funded schools,Total,Total,37221.3
+England,E92000001,country,201314,Unclassified,Total state-funded schools,Classroom teachers,Total,30246.4
+England,E92000001,country,201314,Unclassified,Total state-funded schools,Head teachers,Total,58156.6
+England,E92000001,country,201314,Unclassified,Total state-funded schools,Other Leadership teachers,Total,53263.7
+England,E92000001,country,201314,Unclassified,Total state-funded schools,Total,Total,32305.2
+England,E92000001,country,201415,Female,Total state-funded schools,Classroom teachers,Total,34151.6
+England,E92000001,country,201415,Female,Total state-funded schools,Head teachers,Total,63462.3
+England,E92000001,country,201415,Female,Total state-funded schools,Other Leadership teachers,Total,50502.1
+England,E92000001,country,201415,Female,Total state-funded schools,Total,Total,36690.7
+England,E92000001,country,201415,Male,Total state-funded schools,Classroom teachers,Total,34980.4
+England,E92000001,country,201415,Male,Total state-funded schools,Head teachers,Total,71504.5
+England,E92000001,country,201415,Male,Total state-funded schools,Other Leadership teachers,Total,54374.2
+England,E92000001,country,201415,Male,Total state-funded schools,Total,Total,39569.4
+England,E92000001,country,201415,Total,Total state-funded schools,Classroom teachers,Total,34342.8
+England,E92000001,country,201415,Total,Total state-funded schools,Head teachers,Total,66182.5
+England,E92000001,country,201415,Total,Total state-funded schools,Other Leadership teachers,Total,51721.7
+England,E92000001,country,201415,Total,Total state-funded schools,Total,Total,37395.5
+England,E92000001,country,201415,Unclassified,Total state-funded schools,Classroom teachers,Total,30437.1
+England,E92000001,country,201415,Unclassified,Total state-funded schools,Head teachers,Total,58288.9
+England,E92000001,country,201415,Unclassified,Total state-funded schools,Other Leadership teachers,Total,51058.2
+England,E92000001,country,201415,Unclassified,Total state-funded schools,Total,Total,34230.7
+England,E92000001,country,201516,Female,Total state-funded schools,Classroom teachers,Total,34397.1
+England,E92000001,country,201516,Female,Total state-funded schools,Head teachers,Total,64497.3
+England,E92000001,country,201516,Female,Total state-funded schools,Other Leadership teachers,Total,50899.6
+England,E92000001,country,201516,Female,Total state-funded schools,Total,Total,37040.5
+England,E92000001,country,201516,Male,Total state-funded schools,Classroom teachers,Total,35201.1
+England,E92000001,country,201516,Male,Total state-funded schools,Head teachers,Total,72716.6
+England,E92000001,country,201516,Male,Total state-funded schools,Other Leadership teachers,Total,54769.7
+England,E92000001,country,201516,Male,Total state-funded schools,Total,Total,39896.3
+England,E92000001,country,201516,Total,Total state-funded schools,Classroom teachers,Total,34582.8
+England,E92000001,country,201516,Total,Total state-funded schools,Head teachers,Total,67264.9
+England,E92000001,country,201516,Total,Total state-funded schools,Other Leadership teachers,Total,52094.6
+England,E92000001,country,201516,Total,Total state-funded schools,Total,Total,37737.4
+England,E92000001,country,201516,Unclassified,Total state-funded schools,Classroom teachers,Total,30869.4
+England,E92000001,country,201516,Unclassified,Total state-funded schools,Head teachers,Total,80564.9
+England,E92000001,country,201516,Unclassified,Total state-funded schools,Other Leadership teachers,Total,51055.9
+England,E92000001,country,201516,Unclassified,Total state-funded schools,Total,Total,32333.3
+England,E92000001,country,201617,Female,Total state-funded schools,Classroom teachers,Total,34674.4
+England,E92000001,country,201617,Female,Total state-funded schools,Head teachers,Total,65425.9
+England,E92000001,country,201617,Female,Total state-funded schools,Other Leadership teachers,Total,51366.4
+England,E92000001,country,201617,Female,Total state-funded schools,Total,Total,37392.9
+England,E92000001,country,201617,Male,Total state-funded schools,Classroom teachers,Total,35471.4
+England,E92000001,country,201617,Male,Total state-funded schools,Head teachers,Total,73569.3
+England,E92000001,country,201617,Male,Total state-funded schools,Other Leadership teachers,Total,55100
+England,E92000001,country,201617,Male,Total state-funded schools,Total,Total,40235.8
+England,E92000001,country,201617,Total,Total state-funded schools,Classroom teachers,Total,34858.1
+England,E92000001,country,201617,Total,Total state-funded schools,Head teachers,Total,68153.6
+England,E92000001,country,201617,Total,Total state-funded schools,Other Leadership teachers,Total,52505.6
+England,E92000001,country,201617,Total,Total state-funded schools,Total,Total,38084.5
+England,E92000001,country,201617,Unclassified,Total state-funded schools,Classroom teachers,Total,30097.3
+England,E92000001,country,201617,Unclassified,Total state-funded schools,Head teachers,Total,58501
+England,E92000001,country,201617,Unclassified,Total state-funded schools,Other Leadership teachers,Total,46401.8
+England,E92000001,country,201617,Unclassified,Total state-funded schools,Total,Total,31463.9
+England,E92000001,country,201718,Female,Total state-funded schools,Classroom teachers,Total,35178.7
+England,E92000001,country,201718,Female,Total state-funded schools,Head teachers,Total,66173.7
+England,E92000001,country,201718,Female,Total state-funded schools,Other Leadership teachers,Total,51854.2
+England,E92000001,country,201718,Female,Total state-funded schools,Total,Total,37954.2
+England,E92000001,country,201718,Male,Total state-funded schools,Classroom teachers,Total,36020.1
+England,E92000001,country,201718,Male,Total state-funded schools,Head teachers,Total,74510.7
+England,E92000001,country,201718,Male,Total state-funded schools,Other Leadership teachers,Total,55534.4
+England,E92000001,country,201718,Male,Total state-funded schools,Total,Total,40840.9
+England,E92000001,country,201718,Total,Total state-funded schools,Classroom teachers,Total,35373
+England,E92000001,country,201718,Total,Total state-funded schools,Head teachers,Total,68944
+England,E92000001,country,201718,Total,Total state-funded schools,Other Leadership teachers,Total,52968.8
+England,E92000001,country,201718,Total,Total state-funded schools,Total,Total,38655.5
+England,E92000001,country,201718,Unclassified,Total state-funded schools,Classroom teachers,Total,32462.9
+England,E92000001,country,201718,Unclassified,Total state-funded schools,Head teachers,Total,c
+England,E92000001,country,201718,Unclassified,Total state-funded schools,Other Leadership teachers,Total,75306.3
+England,E92000001,country,201718,Unclassified,Total state-funded schools,Total,Total,35716.8
+England,E92000001,country,201819,Female,Total state-funded schools,Classroom teachers,Total,35993.3
+England,E92000001,country,201819,Female,Total state-funded schools,Head teachers,Total,67260.3
+England,E92000001,country,201819,Female,Total state-funded schools,Other Leadership teachers,Total,52645.8
+England,E92000001,country,201819,Female,Total state-funded schools,Total,Total,38789.7
+England,E92000001,country,201819,Male,Total state-funded schools,Classroom teachers,Total,36830.5
+England,E92000001,country,201819,Male,Total state-funded schools,Head teachers,Total,75464.7
+England,E92000001,country,201819,Male,Total state-funded schools,Other Leadership teachers,Total,56136.7
+England,E92000001,country,201819,Male,Total state-funded schools,Total,Total,41645.2
+England,E92000001,country,201819,Total,Total state-funded schools,Classroom teachers,Total,36185.1
+England,E92000001,country,201819,Total,Total state-funded schools,Head teachers,Total,69976.3
+England,E92000001,country,201819,Total,Total state-funded schools,Other Leadership teachers,Total,53697.7
+England,E92000001,country,201819,Total,Total state-funded schools,Total,Total,39480.5
+England,E92000001,country,201819,Unclassified,Total state-funded schools,Classroom teachers,Total,30696
+England,E92000001,country,201819,Unclassified,Total state-funded schools,Head teachers,Total,74757.2
+England,E92000001,country,201819,Unclassified,Total state-funded schools,Other Leadership teachers,Total,50151
+England,E92000001,country,201819,Unclassified,Total state-funded schools,Total,Total,34901.6
+England,E92000001,country,201920,Female,Total state-funded schools,Classroom teachers,Total,36985.4
+England,E92000001,country,201920,Female,Total state-funded schools,Head teachers,Total,68869.6
+England,E92000001,country,201920,Female,Total state-funded schools,Other Leadership teachers,Total,53832.5
+England,E92000001,country,201920,Female,Total state-funded schools,Total,Total,39825.1
+England,E92000001,country,201920,Male,Total state-funded schools,Classroom teachers,Total,37885.1
+England,E92000001,country,201920,Male,Total state-funded schools,Head teachers,Total,77361.5
+England,E92000001,country,201920,Male,Total state-funded schools,Other Leadership teachers,Total,57406.6
+England,E92000001,country,201920,Male,Total state-funded schools,Total,Total,42776.3
+England,E92000001,country,201920,Total,Total state-funded schools,Classroom teachers,Total,37191.5
+England,E92000001,country,201920,Total,Total state-funded schools,Head teachers,Total,71655.1
+England,E92000001,country,201920,Total,Total state-funded schools,Other Leadership teachers,Total,54911
+England,E92000001,country,201920,Total,Total state-funded schools,Total,Total,40537
+England,E92000001,country,201920,Unclassified,Total state-funded schools,Classroom teachers,Total,34244
+England,E92000001,country,201920,Unclassified,Total state-funded schools,Head teachers,Total,63910.4
+England,E92000001,country,201920,Unclassified,Total state-funded schools,Other Leadership teachers,Total,53403.1
+England,E92000001,country,201920,Unclassified,Total state-funded schools,Total,Total,36962.3
